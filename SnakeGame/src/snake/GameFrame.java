@@ -1,4 +1,4 @@
-package snakeGame;
+package snake;
 
 import javax.swing.JFrame;
 

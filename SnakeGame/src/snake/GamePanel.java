@@ -1,4 +1,4 @@
-package snakeGame;
+package snake;
 
 import java.awt.*;
 import java.awt.event.*;
